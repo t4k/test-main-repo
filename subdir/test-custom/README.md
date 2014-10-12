@@ -12,3 +12,5 @@ git subtree split -P subdir/test-custom --annotate="(split) " --branch test-cust
 (changed README)
 
 git subtree push -P subdir/test-custom test-custom master
+
+Hmm, not sure how to make the workflow smooth with GUI.
