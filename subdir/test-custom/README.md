@@ -27,4 +27,7 @@ git subtree split -P subdir/test-custom
 then added a link to a subtree in SourceTree GUI
 
 next I will commit and push to test-main-repo/master
+
+but first add another commit
+
 then I will subtree push to test-custom/master
