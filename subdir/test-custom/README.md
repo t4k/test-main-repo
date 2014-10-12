@@ -14,3 +14,6 @@ git subtree split -P subdir/test-custom --annotate="(split) " --branch test-cust
 git subtree push -P subdir/test-custom test-custom master
 
 Hmm, not sure how to make the workflow smooth with GUI.
+
+ok, in SourceTree, I must push to the test-main-repo master normally
+but to update the test-custom repo, I must do a push subtree (right click on subtree)
