@@ -17,3 +17,5 @@ Hmm, not sure how to make the workflow smooth with GUI.
 
 ok, in SourceTree, I must push to the test-main-repo master normally
 but to update the test-custom repo, I must do a push subtree (right click on subtree)
+
+I am testing what happens when two files are in one commit for subrepo
