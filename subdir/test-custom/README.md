@@ -19,3 +19,12 @@ ok, in SourceTree, I must push to the test-main-repo master normally
 but to update the test-custom repo, I must do a push subtree (right click on subtree)
 
 I am testing what happens when two files are in one commit for subrepo
+
+Here, I have done:
+
+git subtree split -P subdir/test-custom
+
+then added a link to a subtree in SourceTree GUI
+
+next I will commit and push to test-main-repo/master
+then I will subtree push to test-custom/master
