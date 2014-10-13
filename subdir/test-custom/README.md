@@ -42,3 +42,7 @@ git remote add -f test-custom git@github.com:t4k/test-custom.git
 git subtree push -P subdir/test-custom test-custom master
 
 the visual repo looks sort of messy when using subtree it seems
+
+# Can I subtree push without having done a subtree split?
+
+What happens?
